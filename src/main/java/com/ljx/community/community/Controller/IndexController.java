@@ -1,7 +1,7 @@
 package com.ljx.community.community.Controller;
 
 import com.ljx.community.community.mapper.UserMapper;
-import model.User;
+import com.ljx.community.community.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

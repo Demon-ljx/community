@@ -1,6 +1,6 @@
 package com.ljx.community.community.mapper;
 
-import model.User;
+import com.ljx.community.community.model.User;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
