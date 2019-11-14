@@ -1,4 +1,4 @@
-package model;
+package com.ljx.community.community.model;
 
 public class User {
     private Integer id;
